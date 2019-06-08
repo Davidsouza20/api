@@ -1,0 +1,35 @@
+{
+    "cars": [
+        {
+            "id": 1,
+            "marca": "Honda",
+            "modelo": "Civic",
+            "ano": 2018
+        },
+        {
+            "id": 2,
+            "marca": "Honda",
+            "modelo": "Fit",
+            "ano": 2008
+        },
+        {
+            "id": 3,
+            "marca": "Honda",
+            "modelo": "City",
+            "ano": 2005
+        },
+        {
+            "id": 4,
+            "marca": "Honda",
+            "modelo": "H-RV",
+            "ano": 2015
+        },
+        {
+            "id": 5,
+            "marca": "Toyota",
+            "modelo": "Corola",
+            "ano": 2018
+        }
+        
+    ]
+}
