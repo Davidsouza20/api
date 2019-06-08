@@ -33,29 +33,3 @@
         
     ]
 }
-
-
-{
-  "brand": [
-     {
-     "id": 1,
-     "marca": "Honda"
-     },
-     {
-     "id": 2,
-     "marca": "Toyota"
-     },
-     {
-     "id": 3,
-     "marca": "Ford"
-     },
-     {
-     "id": 4,
-     "marca": "Fiat"
-     },
-     {
-     "id": 5,
-     "marca": "Chevrolet"
-     }
- ]
-}
